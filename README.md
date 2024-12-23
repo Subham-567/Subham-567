@@ -1,58 +1,41 @@
-# 👋 **Hi, I'm Shubhankar Sarkar!**  
-📧 **Email:** [shubhankarsarkar590@gmail.com](mailto:shubhankarsarkar590@gmail.com)  
-📱 **Mobile:** +91-9830821540  
+# 👋 Hi, I'm Subham!
+
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)  
+
+🎓 **MTech in Signal Processing** at IISc.  
+🔬 Passionate about **Image Processing**, **Computer Vision**, and **Deep Learning**.  
+💡 Always learning and exploring innovative solutions in **Signal Processing** and **AI**.  
+
+---
+
+## 🛠️ My Skills
+
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools & Frameworks  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 
 ---
 
-## 🎓 **Academic Journey**  
+## 💼 Projects
 
-| **Year**   | **Degree / Program**              | **Institution**             | **%/CGPA** |
-|------------|-----------------------------------|-----------------------------|------------|
-| 2024-2026  | MTech, Signal Processing          | Indian Institute of Science | 🌟        |
-| 2016-2021  | BTech, Electrical Engineering     | Jadavpur University         | 8.4/10     |
-| 2016       | Class XII, WBCHSE                 | Khokharbari High School     | 87.4%      |
-| 2014       | Class X, WBBSE                    | Khokharbari High School     | 93%        |
+### 🌅 **HDR Multi-Exposure Fusion Techniques**  
+Implemented **Exponential**, **Reinhard Global/Local Tone Mapping**, and **Laplacian/Gaussian Multi-Exposure Fusion** algorithms.  
 
----
-
-## 🛠️ **Experience & Projects**  
-
-### ⚡ **NTPC Limited** *(2022–2024)*  
-**Designation:** Executive Engineer  
-- Managed the pulse of the power plant with swift action and sharp decision-making.  
-- Ensured that the operational heart kept ticking smoothly, even in emergencies.  
+### 🔑 **User Authentication using SVM Classifier**  
+Developed a robust user authentication system using Support Vector Machines.  
 
 ---
 
-### 🌈 **Projects That Define Me**  
-
-#### **HDR Multi-Toning Operator and Multi-Exposure Fusion** *(2024)*  
-- Played with the extremes of light and shadow, using **Exponential** and **Reinhard tone mapping** algorithms to compress high dynamic range (HDR) images.  
-- Fused multi-exposure images using **Laplacian** and **Gaussian methods** to create dynamic visual blends.  
-
-#### **Vignette Effect in Image Processing** *(2021)*  
-- Crafted mesmerizing vignette effects to transform ordinary images into stunning works of art.  
-- Worked magic to create smooth transitions between the image's core and its edges.  
-
-#### **User Authentication with SVM** *(2021)*  
-- Built a fortress of security with **SVM-based user authentication systems**.  
-- Pushed boundaries with precision, recall, and robustness to create a seamless user experience.  
-
----
-
-## 🎓 **Courses That Shape My Mind**  
-
-- **Matrix Theory**  
-- **Random Processes**  
-- **Linear & Non-Linear Optimization**  
-- **Digital Image Processing**  
-- **Time Frequency Analysis**  
-
----
-
-## 🏆 **Achievements & Strengths**  
+🏆 **Achievements & Strengths**  
 
 - 🥇 Proud recipient of the **ONGC Scholarship** for academic brilliance.  
 - 🧠 Expertise in **Digital Signal Processing**, **Image Processing**, and **Signal Systems**.  
@@ -60,16 +43,19 @@
 
 ---
 
-## 🖥️ **Tech-Savvy, Always on the Edge**  
+## 📫 Let's Connect!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-site.com)  
+
+![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile!)
 
 ---
 
-## 📬 **Let’s Connect & Create**  
+### Notes:
+1. Replace placeholder links with actual URLs.
+2. If your CV screenshot contains any unique designs or achievements, I can incorporate them here.
+3. Add more images/icons if you'd like further customization.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhankarsarkar)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhankarsarkar)  
-
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile!)
+Upload your CV screenshot, and I'll align this draft with your specific details.
